@@ -56,7 +56,7 @@ debug.log
 .idea/dataSources.xml
 
 # Python Installer #
-pyvenv.cfg
+venv/pyvenv.cfg
 pip-log.txt
 
 # Distribution / packaging
